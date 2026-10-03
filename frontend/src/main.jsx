@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 import "./styles.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://securescan-api-r9ls.onrender.com";
 
 const severityOrder = ["Critical", "High", "Medium", "Low", "Informational"];
 
